@@ -1,5 +1,12 @@
-.App {
-  text-align: center;
+.buttt{
+  /* margin-left: 800px; */
+
+  margin-left: 1336px;
+  position: relative;
+  top: -41px;
+}
+.body{
+  background-image: linear-gradient(skyblue,pink);
 }
 
 .App-logo {
